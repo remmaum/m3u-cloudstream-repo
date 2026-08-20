@@ -3,6 +3,6 @@
   "description": "M3U Playlist Player - Add your own M3U playlists",
   "manifestVersion": 1,
   "pluginLists": [
-    "https://raw.githubusercontent.com/YOUR_USERNAME/m3u-cloudstream-repo/main/plugins.json"
+    "https://raw.githubusercontent.com/remmaum/m3u-cloudstream-repo/main/plugins.json"
   ]
 }
