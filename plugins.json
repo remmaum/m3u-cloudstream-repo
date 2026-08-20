@@ -1,0 +1,22 @@
+[
+    {
+        "iconUrl": "https://play-lh.googleusercontent.com/V4t4JeQV2Cu9u72hKuqOW5c0IfwcZuuVS1d9PF2uJsW3rlIq-aOMTrT5bABVGaAFTcM=w480-h960-rw",
+        "fileHash": "sha256-8ec8df619b40f7fc5df18ad69320749b776ebc2fec1a375b71845b8bdbb74c07",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/YOUR_USERNAME/m3u-cloudstream-repo",
+        "fileSize": 51164,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            "NivinCNC"
+        ],
+        "tvTypes": [
+            "Live"
+        ],
+        "version": 15,
+        "internalName": "M3UPlaylistPlayerProvider",
+        "description": "Add your own m3u playlists",
+        "url": "https://raw.githubusercontent.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/builds/M3UPlaylistPlayerProvider.cs3",
+        "name": "M3UPlaylistPlayerProvider"
+    }
+]
