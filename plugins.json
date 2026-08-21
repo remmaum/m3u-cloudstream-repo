@@ -6,7 +6,7 @@
         "repositoryUrl": "https://github.com/remmaum/m3u-cloudstream-repo",
         "fileSize": 51158,
         "status": 1,
-        "language": "en",
+        "language": "tr",
         "authors": [
             "NivinCNC (patched, ads removed)"
         ],
@@ -14,9 +14,9 @@
             "Live"
         ],
         "version": 1000,
-        "internalName": "M3UPlaylistPlayerProvider",
-        "description": "Add your own m3u playlists (ad-browser call removed)",
+        "internalName": "M3U CloudStream Repo",
+        "description": "M3U CloudStream Repo",
         "url": "https://raw.githubusercontent.com/remmaum/m3u-cloudstream-repo/main/M3UPlaylistPlayerProvider-noads.cs3",
-        "name": "M3UPlaylistPlayerProvider (No Ads)"
+        "name": "M3U CloudStream Repo"
     }
 ]
