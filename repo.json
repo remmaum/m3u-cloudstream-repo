@@ -1,5 +1,6 @@
 {
   "name": "My M3U CloudStream Repo (No Ads)",
+  "shortCode": "remmaum",
   "iconUrl": "https://raw.githubusercontent.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/refs/heads/builds/cnc.png",
   "description": "Personal patched build of M3UPlaylistPlayerProvider with the ad-browser call removed",
   "manifestVersion": 1,
