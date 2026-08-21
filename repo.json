@@ -1,9 +1,9 @@
-// repo.json
 {
-  "name": "M3U CloudStream Repo",
-  "description": "M3U Playlist Player",
+  "name": "My M3U CloudStream Repo (No Ads)",
+  "iconUrl": "https://raw.githubusercontent.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/refs/heads/builds/cnc.png",
+  "description": "Personal patched build of M3UPlaylistPlayerProvider with the ad-browser call removed",
   "manifestVersion": 1,
   "pluginLists": [
-    "https://raw.githubusercontent.com/remmaum/m3u-cloudstream-repo/builds/plugins.json"
+    "https://raw.githubusercontent.com/remmaum/m3u-cloudstream-repo/main/plugins.json"
   ]
 }
